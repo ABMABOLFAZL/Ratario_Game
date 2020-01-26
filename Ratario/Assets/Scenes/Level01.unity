@@ -1079,7 +1079,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _pos2Object: {fileID: 1732770503}
-  _patrolWaitTime: 10
+  _patrolWaitTime: 3
+  _enemyMoveSpeed: 1
 --- !u!1 &1470165387
 GameObject:
   m_ObjectHideFlags: 0
